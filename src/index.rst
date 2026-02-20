@@ -40,6 +40,5 @@ Contact
 ^^^^^^^
 
 For enquiries related to the programme please contact the workshop organiser,
-Joe Wallwork (`jw2423@cam.ac.uk <mailto:jw2423@cam.ac.uk>`__). For logistics
-enquiries, please contact the ICCS Operations Team (`iccs@maths.cam.ac.uk
-<mailto:iccs@maths.cam.ac.uk>`__).
+Joe Wallwork (jw2423[AT]cam.ac.uk). For logistics enquiries, please contact the
+ICCS Operations Team (iccs[AT]maths.cam.ac.uk).
