@@ -19,6 +19,9 @@ selection of possible topics include: new methods for AD, software developments
 and inter-comparison, AD in machine learning, and applications in science,
 engineering, and beyond.
 
+Contents
+^^^^^^^^
+
 .. toctree::
    :maxdepth: 1
 
@@ -27,7 +30,8 @@ engineering, and beyond.
    Registration <registration>
    Funding <funding>
 
-Other useful links:
+Other useful links
+^^^^^^^^^^^^^^^^^^
 
 * `ICCS events page for EuroAD29
   <https://iccs.cam.ac.uk/events/29th-euroad-workshop-29-30-september-2026-cambridge>`__.
