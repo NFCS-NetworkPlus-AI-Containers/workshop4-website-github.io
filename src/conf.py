@@ -33,7 +33,7 @@ master_doc = "index"
 
 # General information about the project.
 author = "Institute of Computing for Climate Science"
-project = author
+project = "EuroAD29, Cambridge, UK"
 copyright = f"2026, {author}"
 
 # The version info for the project you're documenting, acts as replacement for
