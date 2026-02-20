@@ -16,9 +16,9 @@ University of Cambridge, UK. Address: Wilberforce Road, Cambridge CB3 0WA.
 College accommodation
 ^^^^^^^^^^^^^^^^^^^^^
 
-TODO
+TODO: Provide details on block-booked college accommodation
 
 Getting here
 ^^^^^^^^^^^^
 
-TODO
+TODO: Provide general advice on how to get to Cambridge and the venue

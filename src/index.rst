@@ -28,5 +28,6 @@ engineering, and beyond.
    Funding <funding>
 
 Other useful links:
+
 * `ICCS events page for EuroAD29
   <https://iccs.cam.ac.uk/events/29th-euroad-workshop-29-30-september-2026-cambridge>`__.
