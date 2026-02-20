@@ -35,3 +35,11 @@ Other useful links
 
 * `ICCS events page for EuroAD29
   <https://iccs.cam.ac.uk/events/29th-euroad-workshop-29-30-september-2026-cambridge>`__.
+
+Contact
+^^^^^^^
+
+For enquiries related to the programme please contact the workshop organiser,
+Joe Wallwork (`jw2423@cam.ac.uk <mailto:jw2423@cam.ac.uk>`__). For logistics
+enquiries, please contact the ICCS Operations Team (`iccs@maths.cam.ac.uk
+<mailto:iccs@maths.cam.ac.uk>`__).
