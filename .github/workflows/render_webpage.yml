@@ -29,27 +29,26 @@ jobs:
       - name: Render HTML
         run: make html
 
-  # TODO: Uncomment deployment workflow once ready to publish webpage
-  # deploy:
-  #   runs-on: ubuntu-latest
-  #   timeout-minutes: 5
-  #   if: ${{ github.event_name != 'pull_request' }}
-  #   permissions:
-  #     contents: write  # We trust the deploy action with write permissions
-  #     id-token: write  # We trust the deploy action with write permissions
-  #   steps:
-  #     - uses: actions/checkout@v5
-  #       with:
-  #         persist-credentials: false
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    if: ${{ github.event_name != 'pull_request' }}
+    permissions:
+      contents: write  # We trust the deploy action with write permissions
+      id-token: write  # We trust the deploy action with write permissions
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
 
-  #     - name: Install dependencies
-  #       run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-  #     - name: Render HTML
-  #       run: make html
+      - name: Render HTML
+        run: make html
 
-  #     - name: Deploy Documentation for main
-  #       uses: JamesIves/github-pages-deploy-action@v4
-  #       with:
-  #         branch: gh-pages    # The branch the action should deploy to.
-  #         folder: build/html  # The folder the action should deploy.
+      - name: Deploy Documentation for main
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages    # The branch the action should deploy to.
+          folder: build/html  # The folder the action should deploy.
