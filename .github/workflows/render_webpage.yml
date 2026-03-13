@@ -32,7 +32,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    if: ${{ github.event_name != 'pull_request' }}
+    if: ${{ github.event_name != 'push' }}
     permissions:
       contents: write  # We trust the deploy action with write permissions
       id-token: write  # We trust the deploy action with write permissions
