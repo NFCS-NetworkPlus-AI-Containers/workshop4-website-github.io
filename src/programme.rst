@@ -22,7 +22,8 @@ Tuesday 29th September 2026
  13:30 - 15:00         Breakout session
  15:00 - 15:30         Refreshment break
  15:30 - 17:00         Contributed talks
- 17:30 - 19:00         Simple dinner with posters
+ 17:00 - 19:00         Free time
+ 19:00 - 22:00         Workshop dinner
  ===================== ==========================
 
 Wednesday 30th September 2026
