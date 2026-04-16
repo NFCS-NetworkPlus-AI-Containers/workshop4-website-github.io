@@ -81,6 +81,20 @@ Arrange for a car to meet you at Gatwick. If you pre-book and are travelling in
 a group, this can be more cost effective and easier than taking public
 transport.
 
+From London Stansted by train
+"""""""""""""""""""""""""""""
+
+There is a direct train from London Stansted to Cambridge.
+
+See https://www.stanstedairport.com/getting-to-and-from/cambridge/.
+
+From London Stansted by coach
+"""""""""""""""""""""""""""""
+
+There is a direct coach from London Stansted to Cambridge.
+
+See https://www.stanstedairport.com/getting-to-and-from/cambridge/.
+
 Travelling from Cambridge railway station to the Centre for Mathematical Sciences by bus
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
