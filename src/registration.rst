@@ -20,8 +20,8 @@ We are offering two registration options:
 For the second option, you will be able to check into the college accommodation
 on Monday 28th September and will check out on Wednesday 30th September. You may
 be able to extend your stay, but will need to arrange this yourself by
-contacting the college at porters[AT]chu.cam.ac.uk after your booking has been
-confirmed.
+contacting the college at accommodation[AT]chu.cam.ac.uk after your booking has
+been confirmed.
 
 Code of conduct
 ^^^^^^^^^^^^^^^
