@@ -7,9 +7,10 @@
 
 The 29th European workshop on automatic differentiation (EuroAD) will be held at
 the Centre for Mathematical Sciences (CMS) at the University of Cambridge, UK,
-in September 2026, hosted by the Institute of Computing for Climate Science
-(ICCS). It will be an informal meeting of researchers and software engineers who
-develop and apply automatic differentiation theory and software.
+on the 29th and 30th of September 2026, hosted by the Institute of Computing for
+Climate Science (ICCS). It will be an informal meeting of researchers and
+software engineers who develop and apply automatic differentiation theory and
+software.
 
 Attendees from all career stages are welcome, particularly PhD students and
 early career researchers and software engineers.
