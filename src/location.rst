@@ -16,7 +16,10 @@ University of Cambridge, UK. Address: Wilberforce Road, Cambridge CB3 0WA.
 College accommodation
 ^^^^^^^^^^^^^^^^^^^^^
 
-Registration will include an option for including College accommodation.
+Registration will include an option for including accommodation at Churchill
+College. Address: Storey’s Way, Cambridge, CB3 0DS.
+
+`Open map <https://maps.app.goo.gl/YUp79buE7eaxhBey8>`__
 
 Travelling from London airports to Cambridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
