@@ -5,5 +5,4 @@
 Funding
 =======
 
-We gratefully acknowledge the Insitute of Computing for Climate Science (ICCS)
-at the University of Cambridge for subsidising EuroAD29.
+We gratefully acknowledge the `National Federated Compute Services - NetworkPlus<https://nfcs-networkplus.ac.uk>`__ for subsidising this workshop.

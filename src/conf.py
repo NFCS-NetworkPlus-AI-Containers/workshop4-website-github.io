@@ -32,8 +32,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-author = "Institute of Computing for Climate Science"
-project = "EuroAD29, Cambridge, UK"
+author = "F.M Brochu-Williams, RCS"
+project = "NFCS AI Container Registry Workshop 4, Cambridge, UK"
 copyright = f"2026, {author}"
 
 # The version info for the project you're documenting, acts as replacement for
@@ -79,9 +79,10 @@ html_theme = "alabaster"
 html_theme_path = ["_themes"]
 
 # The logo to use in all pages (set to current GitHub organisation profile picture)
-html_logo = "https://avatars.githubusercontent.com/u/97293575?s=200&v=4"
+#html_logo = "https://avatars.githubusercontent.com/u/97293575?s=200&v=4"
+html_logo =""
 
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "euroad29"
+htmlhelp_basename = "workshop4"

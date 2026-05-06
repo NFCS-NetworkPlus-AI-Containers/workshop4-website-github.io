@@ -1,24 +1,16 @@
-.. title:: EuroAD29
+.. title:: NFCS AI Container Registry - Workshop 4
 
 .. only:: html
 
-29th European workshop on Automatic Differentiation (EuroAD29)
+4th Workshop of the NFCS AI Container Registry project
 ==============================================================
 
-The 29th European workshop on automatic differentiation (EuroAD) will be held at
-the Centre for Mathematical Sciences (CMS) at the University of Cambridge, UK,
-on the 29th and 30th of September 2026, hosted by the Institute of Computing for
-Climate Science (ICCS). It will be an informal meeting of researchers and
-software engineers who develop and apply automatic differentiation theory and
-software.
+The 4th workshop of the NFCS AI Container Registry project will be held at
+the West Hub at the University of Cambridge, UK,
+on the 21st of July 2026. 
+The theme of this workshop is building a successful federated container registry for AI applications running on HPC systems, focusing on the federation aspects: actors (users, resource providers, software managers), governance and implementation. We will be presenting the findings of our feasibility study (user survey and reports) and hearing from distinguished speakers on the topics described above.
 
-Attendees from all career stages are welcome, particularly PhD students and
-early career researchers and software engineers.
-
-We welcome contributions with both theoretical and practical perspectives. A
-selection of possible topics include: new methods for AD, software developments
-and inter-comparison, AD in machine learning, and applications in science,
-engineering, and beyond.
+Attendees from all career stages are welcome, particularly AI practitioners.
 
 Contents
 ^^^^^^^^
@@ -34,12 +26,10 @@ Contents
 Other useful links
 ^^^^^^^^^^^^^^^^^^
 
-* `ICCS events page for EuroAD29
-  <https://iccs.cam.ac.uk/events/29th-euroad-workshop-29-30-september-2026-cambridge>`__.
+* `National Federated Compute Services - NetworkPlus<https://nfcs-networkplus.ac.uk>`__. 
 
 Contact
 ^^^^^^^
 
 For enquiries related to the programme please contact the workshop organiser,
-Joe Wallwork (jw2423[AT]cam.ac.uk). For logistics enquiries, please contact the
-ICCS Operations Team (iccs[AT]maths.cam.ac.uk).
+Chris Edsall (cje57[AT]cam.ac.uk). 
