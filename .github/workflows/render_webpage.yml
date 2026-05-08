@@ -2,7 +2,7 @@ name: Render webpage
 
 on:
   push:
-    branches: main
+    branches: NFCS-workshop4
   pull_request:
   workflow_dispatch:
 
