@@ -1,9 +1,9 @@
-# Makefile for building EuroAD webpage
+# Makefile for building webpage
 
 # You can set these variables from the command line
 SPHINXOPTS		=
 SPHINXBUILD		= sphinx-build
-SPHINXPROJ		= EUROAD
+SPHINXPROJ		= NFCS
 SOURCEDIR		= src
 BUILDDIR		= build
 PYTHON			= ${VIRTUAL_ENV}/bin/python3
