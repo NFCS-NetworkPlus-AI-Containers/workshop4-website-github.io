@@ -50,5 +50,5 @@ jobs:
       - name: Deploy Documentation for main
         uses: JamesIves/github-pages-deploy-action@d92aa235d04922e8f08b40ce78cc5442fcfbfa2f # v4
         with:
-          branch: NFCS-workshop4    # The branch the action should deploy to.
+          branch: gh-pages    # The branch the action should deploy to.
           folder: build/html  # The folder the action should deploy.
