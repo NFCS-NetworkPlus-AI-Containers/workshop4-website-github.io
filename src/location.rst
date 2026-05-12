@@ -8,18 +8,10 @@ Location
 Workshop venue
 ^^^^^^^^^^^^^^
 
-The workshop will be hosted at the Centre for Mathematical Sciences (CMS) at the
-University of Cambridge, UK. Address: Wilberforce Road, Cambridge CB3 0WA.
+The workshop will be hosted at the West Hub at the
+University of Cambridge, UK. Address: JJ Thomson Avenue, Cambridge CB3 0US.
 
-`Open map <https://maps.app.goo.gl/HjrDAwEXSVkDUTDV6>`__
-
-College accommodation
-^^^^^^^^^^^^^^^^^^^^^
-
-Registration will include an option for including accommodation at Churchill
-College. Address: Storey’s Way, Cambridge, CB3 0DS.
-
-`Open map <https://maps.app.goo.gl/YUp79buE7eaxhBey8>`__
+`Open map <https://www.google.com/maps/place/West+Hub/@52.2103825,0.0876466,17z/data=!3m1!4b1!4m6!3m5!1s0x47d877fcd68d8807:0xf58176593d761e28!8m2!3d52.2103792!4d0.0902269!16s%2Fg%2F11qb5hbgm5?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D>`__
 
 Travelling from London airports to Cambridge
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -118,17 +110,13 @@ Stagecoach:
 Find timetables on the Stagecoach website. Live bus tracking is available on the
 Smart Cambridge bus map or at bustimes.org.
 
-Driving to the Centre for Mathematical Sciences
+Driving 
 """""""""""""""""""""""""""""""""""""""""""""""
 
-The Centre for Mathematics (CMS) is located on Wilberforce Road (CB3 0WA), off
-Madingley Road. View Google Maps. The centre may also be reached from Clarkson
-Road, off Grange Road. 
+The West Hub is located on JJ Thomson Avenue (CB3 0US), off
+Madingley Road. View Google Maps. 
+We recommend using the P&R Madingley Road nearby then catch the U1 or U2 bus off Eddington Road 
+(see `map <https://www.google.com/maps/place/Madingley+Road+Park+and+Ride/@52.2133638,0.0867186,17z/data=!4m14!1m7!3m6!1s0x47d877fcd68d8807:0xf58176593d761e28!2sWest+Hub!8m2!3d52.2103792!4d0.0902269!16s%2Fg%2F11qb5hbgm5!3m5!1s0x47d877382892261d:0xed1a01b6b22da343!8m2!3d52.2147939!4d0.0841138!16s%2Fg%2F12mjt356f?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D>`__)
 
-The CMS is close to the M11 motorway (exit at Junction 13), but please note that
-parking on site is very limited and must be arranged in advance of visiting.
+The West Hub and Madingley P&R are close to the M11 motorway (exit at Junction 13).
 
-Limited parking is also available on nearby streets. Free car parking (for up to
-18 hours) is available at Madingley Road Park and Ride. From there, PR1 buses
-run along Madingley Road towards the city centre and stop close to the CMS (ask
-for Storey's Way stop).

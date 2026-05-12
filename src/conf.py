@@ -80,7 +80,7 @@ html_theme_path = ["_themes"]
 
 # The logo to use in all pages (set to current GitHub organisation profile picture)
 #html_logo = "https://avatars.githubusercontent.com/u/97293575?s=200&v=4"
-html_logo =""
+html_logo ="logo/NFCS_logo.png"
 
 # -- Options for HTMLHelp output ------------------------------------------
 
