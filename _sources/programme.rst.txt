@@ -8,37 +8,25 @@ Programme
 Preliminary schedule
 ^^^^^^^^^^^^^^^^^^^^
 
-Tuesday 29th September 2026
+Tuesday 21st July 2026
 
  ===================== ==========================
  Time                  Session
  ===================== ==========================
- 09:00 - 09:20         Registration
- 09:20 - 09:30         Welcome
- 09:30 - 10:30         Contributed talks
- 10:30 - 11:00         Refreshment break
- 11:00 - 12:30         Contributed talks
- 12:30 - 13:30         Lunch break with posters
- 13:30 - 15:00         Breakout session
- 15:00 - 15:30         Refreshment break
- 15:30 - 17:00         Contributed talks
- 17:00 - 19:00         Free time
- 19:00 - 22:00         Workshop dinner
+ 10.30-11.00           Arrival 
+ 11.00-11.30           Welcome and project introduction 
+ 11.30-12.00           First invited talk 
+ 12.00-12.30           Second invited talk 
+ 12.30-13.30           Lunch 
+ 13.30-14.20           Panel with audience questions 
+ 14.20-14.50           Third invited talk 
+ 14.50-15.00           Break 
+ 15.00-15.30           Fourth invited talk 
+ 15.30-16.00           Fifth invited talk 
+ 16.00-16.30           Sixth invited talk 
+ 16.30-16.45           Close and adjourn
  ===================== ==========================
 
-Wednesday 30th September 2026
-
- ===================== ==========================
- Time                  Session
- ===================== ==========================
- 09:00 - 09:15         Welcome back
- 09:15 - 10:45         Contributed talks
- 10:45 - 11:15         Refreshment break
- 11:15 - 12:45         Contributed talks
- 12:45 - 13:45         Lunch break with posters
- 13:45 - 15:15         Breakout session
- 15:15 - 15:30         Close
- ===================== ==========================
 
 Contributed talks
 ^^^^^^^^^^^^^^^^^
@@ -48,23 +36,4 @@ minutes + 5 minutes for questions. Acceptance will be subject to scheduling. At
 least one author must be in attendance to present the talk.
 
 If you would like to contribute a talk then provide a title and abstract during
-`registration <registration.html>`__.
-
-Contributed posters
-^^^^^^^^^^^^^^^^^^^
-
-There is an opportunity to contribute a poster to the workshop. Poster boards
-will fit A1 size posters (594mm x 841 mm) and can be in either the landscape or
-portrait orientation. Posters will be on display during lunch breaks. At least
-one author must be in attendance to present the poster.
-
-If you would like to contribute a poster then provide a title and abstract
-during `registration <registration.html>`__.
-
-Breakout sessions
-^^^^^^^^^^^^^^^^^
-
-This year we plan to hold two breakout sessions, where we can come together to
-discuss the state of the field, current challenges, and exciting ideas. Please
-share any suggestions you have for breakout topics during
 `registration <registration.html>`__.

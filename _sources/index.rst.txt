@@ -26,10 +26,10 @@ Contents
 Other useful links
 ^^^^^^^^^^^^^^^^^^
 
-* `National Federated Compute Services - NetworkPlus<https://nfcs-networkplus.ac.uk>`__. 
+* `National Federated Compute Services - NetworkPlus <https://nfcs-networkplus.ac.uk/>`__. 
 
 Contact
 ^^^^^^^
 
-For enquiries related to the programme please contact the workshop organiser,
-Chris Edsall (cje57[AT]cam.ac.uk). 
+For enquiries related to the programme please contact Frederic Brochu-Williams,
+(fmb33[AT]cam.ac.uk). 
