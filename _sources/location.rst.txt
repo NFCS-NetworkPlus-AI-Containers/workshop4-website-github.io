@@ -12,6 +12,7 @@ The workshop will be hosted at the West Hub at the
 University of Cambridge, UK. 
 
 Address: JJ Thomson Avenue, Cambridge CB3 0US.
+
 `Open map <https://www.google.com/maps/place/West+Hub/@52.2103825,0.0876466,17z/data=!3m1!4b1!4m6!3m5!1s0x47d877fcd68d8807:0xf58176593d761e28!8m2!3d52.2103792!4d0.0902269!16s%2Fg%2F11qb5hbgm5?entry=ttu&g_ep=EgoyMDI2MDUwNi4wIKXMDSoASAFQAw%3D%3D>`__
 
 `Accessibility facilities <https://www.accessable.co.uk/university-of-cambridge/west-cambridge-site/access-guides/west-hub-shared-facilities-hub>`__
