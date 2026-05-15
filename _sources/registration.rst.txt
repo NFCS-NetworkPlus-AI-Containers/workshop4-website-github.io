@@ -8,7 +8,8 @@ Registration
 In-person registration is now open and will close on 7th July 2026 or when all places
 are filled - whichever comes first.
 
-Online registration will close on 20th July 2026.
+Online registration will close on 20th July 2026 at 5 pm. Only people that have registered as "online attendees" will be provided 
+with the connection details to the workshop.
 
 Registration form
 ^^^^^^^^^^^^^^^^^
