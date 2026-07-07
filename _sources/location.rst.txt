@@ -8,7 +8,7 @@ Location
 Workshop venue
 ^^^^^^^^^^^^^^
 
-The workshop will be hosted at the West Hub at the
+The workshop will be hosted in Room A at the West Hub at the
 University of Cambridge, UK. 
 
 Address: JJ Thomson Avenue, Cambridge CB3 0US.
