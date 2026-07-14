@@ -14,16 +14,16 @@ Tuesday 21st July 2026
  Time                  Session
  ===================== ==========================
  10.30-11.00           Arrival 
- 11.00-11.30           Welcome and project introduction 
- 11.30-12.00           First invited talk 
- 12.00-12.30           Second invited talk 
+ 11.00-11.30           Welcome and project introduction: Chris Edsall (Cambridge)
+ 11.30-12.00           First invited talk – Christian Kniep (QNIB / MetaHub) 
+ 12.00-12.30           Second invited talk – Anil Madhavapeddy (Cambridge) 
  12.30-13.30           Lunch 
  13.30-14.20           Panel with audience questions 
- 14.20-14.50           Third invited talk 
+ 14.20-14.50           Third invited talk – Adam Huffman (Oxford/EESSI) 
  14.50-15.00           Break 
- 15.00-15.30           Fourth invited talk 
- 15.30-16.00           Fifth invited talk 
- 16.00-16.30           Sixth invited talk 
+ 15.00-15.30           Fourth invited talk – Fouzhan Houseni (Intel)  
+ 15.30-16.00           Fifth invited talk – Marc Dillon (AMD) 
+ 16.00-16.30           Sixth invited talk (TBC)
  16.30-16.45           Close and adjourn
  ===================== ==========================
 
@@ -47,6 +47,9 @@ A registry used to be a simple blob-and-JSON mechanism for distributing containe
 I will talk about how the experience of “building software with ease” has become more complicated over time as the EasyBuild community has grown, expectations have changed and external factors have radically altered.
 
 **Fouzhan Houseni (Intel): TBC**
+
+.. image:: logo/marc.dillon.jpg 
+   :width: 420
 
 **Marc Dillon (Principal Member of Technical Staff, AMD: TBC**
 
