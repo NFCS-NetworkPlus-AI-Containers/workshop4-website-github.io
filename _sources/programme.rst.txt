@@ -31,9 +31,8 @@ Tuesday 21st July 2026
 Contributed talks
 ^^^^^^^^^^^^^^^^^
 
-There is an opportunity to contribute a talk to the workshop. Talks will be 25
-minutes + 5 minutes for questions. Acceptance will be subject to scheduling. At
-least one author must be in attendance to present the talk.
+Christian Kniep (QNIB/MetaHub): "Container Registry for AI"
 
-If you would like to contribute a talk then provide a title and abstract during
-`registration <registration.html>`__.
+“””
+A registry used to be a simple blob-and-JSON mechanism for distributing container images. With ORAS artifacts, it can serve anything — which is exactly the problem. On HPC systems, application containers already carry code that must match the hardware and drivers beneath them. Add weights across quantizations, runtime configs, training workflows, kernels, skills, agent harnesses — and the question of what we federate becomes inseparable from who it serves: users, resource providers, software managers. Each pulls scope and governance in a different direction. Drawing on MetaHub, this keynote seeds one opinionated perspective to frame the discussion.
+“”” 
