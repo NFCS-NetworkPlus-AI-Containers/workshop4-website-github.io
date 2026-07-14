@@ -39,9 +39,15 @@ A registry used to be a simple blob-and-JSON mechanism for distributing containe
 
 **Anil Madhavapeddy (University of Cambridge):  TBC**
 
-.. image: logo/adam.huffman.jpg 
-
+.. image:: logo/adam.huffman.jpg 
+   :width: 420
+   
 **Adam Huffman (University of Oxford/EESSI): EasyBuild, EESSI, and HPC**
 
 I will talk about how the experience of “building software with ease” has become more complicated over time as the EasyBuild community has grown, expectations have changed and external factors have radically altered.
 
+**Fouzhan Houseni (Intel): TBC**
+
+**Marc Dillon (Principal Member of Technical Staff, AMD: TBC**
+
+Marc is a lead platform engineer in the Silo AI Helsinki office of AMD. He works to make scalable solutions for AMD Enterprise customers, specializing in Kubernetes and cloud-native infrastructure with a passion for open-source. A seasoned technology leader with experience spanning engineering, consulting, and executive roles, Marc has delivered solutions for organizations around the world.
