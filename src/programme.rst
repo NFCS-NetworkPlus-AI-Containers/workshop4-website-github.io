@@ -46,7 +46,10 @@ A registry used to be a simple blob-and-JSON mechanism for distributing containe
 
 I will talk about how the experience of “building software with ease” has become more complicated over time as the EasyBuild community has grown, expectations have changed and external factors have radically altered.
 
-**Fouzhan Houseni (Intel): TBC**
+.. image:: logo/fouzhan.hosseini.jpg 
+   :width: 420
+
+**Fouzhan Hosseini (Intel): TBC**
 
 .. image:: logo/marc.dillon.jpg 
    :width: 420
